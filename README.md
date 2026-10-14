@@ -136,7 +136,7 @@ The website will open in your default browser.
 
 ## 🌐 Website
 
-WorkStudy is available online and offline.
+WorkStudy is available online and offline. But unfortunately soundboard, chat, and request's are not avaible offline.
 
 Download the latest offline release from:
 
