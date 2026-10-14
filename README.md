@@ -141,7 +141,7 @@ WorkStudy is available online and offline.
 Download the latest offline release from:
 
 ```txt
-Releases → WorkStudy-Offline.zip
+Releases → neocities-workstudy.zip
 ```
 
 ---
